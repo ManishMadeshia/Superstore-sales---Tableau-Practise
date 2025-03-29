@@ -12,4 +12,4 @@ In this project, I performed an insightful analysis of Superstore sales data usi
 
 4. Monthly Order Quantity Trends
 
-5. The project highlights key business insights using interactive and visually appealing dashboards.
+The project highlights key business insights using interactive and visually appealing dashboards.
