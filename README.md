@@ -11,7 +11,7 @@ In this project, I performed an insightful analysis of Superstore sales data usi
 
 2. Percentage Contribution & Sales by Each Region
 
-   ![image](https://github.com/user-attachments/assets/60059bb1-cac0-433d-a19b-0295e85b73ff)
+![image](https://github.com/user-attachments/assets/7fa4612d-2847-45da-9e5e-bfc9e6b84102)
 
 
 3. Profit vs Sales Relationship
